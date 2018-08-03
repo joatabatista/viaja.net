@@ -1,0 +1,6 @@
+require 'calabash-android/cucumber'
+require 'pry'
+require 'calabash-android/abase'
+require 'cpf_faker'
+require 'faker'
+require 'parallel_calabash'

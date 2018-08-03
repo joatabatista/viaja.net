@@ -1,0 +1,41 @@
+flash("* id:'btn_comprar_passagens'")
+query"*"
+touch("* id:'toolbar'")
+flash("* id:'toolbar'")
+flash("* id:'action_bar_root'")
+def scroll_direita(quantity)    quantity.times do    perform_action('drag', 90, 0, 50, 50, 50)     end  d
+exit
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+query"*"
+flash("* id:'btn_comprar_passagens'")
+start_test_server_in_background
+touch("* id:'btn_comprar_passagens'")
+start_test_server_in_background
+start_test_server_in_background
+reinstall_apps
+start_test_server_in_background
+exit
+start_test_server_in_background
+query"*"
+touch("* id:'tutorial_skip'")
+exit
+start_test_server_in_background
+query"*"
+start_test_server_in_background
+query"*"
+flash("* id:'btn_comprar_passagens'")
+exit
+start_test_server_in_background
+touch("* id:'btn_comprar_passagens'")
+touch("* id:'btn_comprar_passagens'")
+t
+str_sxt
+ar_et
+xt
+exit
+start_test_server_in_background
+flash("* text:'Quando Viajar'")
+exit
